@@ -17,8 +17,7 @@ This project is a responsive website for a bike repair service, originally desig
   - CSS3 (with Flexbox/Grid)
   - JavaScript (ES6)
 - **Additional Tools**:
-  - [Optional: mention any frameworks/libraries like Bootstrap, jQuery if used]
-  - [Optional: mention any build tools like Webpack, Gulp if used]
+  - Bootstrap4
 
 ## File Structure
 ```
@@ -46,25 +45,21 @@ bike-repair-project/
 - Navigate through the website using the main menu
 - Click on service cards to view details
 - Use the booking form to schedule an appointment
-- [Add any other specific usage instructions]
+
 
 ## Design Notes
 The original design was created in Adobe XD with the following specifications:
-- Color Scheme: [mention primary colors]
-- Typography: [mention fonts used]
-- Breakpoints: [mention responsive design breakpoints if relevant]
+- Color Scheme: 
+- Typography: 
+- Breakpoints:
 
 ## Future Improvements
-- [List any planned features or improvements]
-- Example: 
+-
   - Add backend integration for appointment management
   - Implement user accounts
   - Add more interactive bike customization tools
 
-## Credits
-- Designed by [Your Name]
-- Developed by [Your Name]
-- [Any other credits for assets, inspiration, etc.]
+
 
 ## License
 [Specify your license here, or "All Rights Reserved" if proprietary]
